@@ -1,3 +1,9 @@
+/*
+ * @Author: shuyang
+ * @Date: 2021-11-23 20:39:56
+ * @LastEditTime: 2021-11-23 23:57:12
+ * @FilePath: \vue_nuxtjs_blog\nuxt.config.js
+ */
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -18,12 +24,12 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    'ant-design-vue/dist/antd.css'
+    // 'ant-design-vue/dist/antd.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    '@/plugins/antd-ui'
+    // '@/plugins/antd-ui'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
